@@ -17,7 +17,7 @@ Hi, I'm Andrei, currently a  Master's student in Financial Engineering at EPFL. 
 - Achieved a monthly Sharpe ratio of ~0.35 and outperformed the S&P 500 in select post-COVID periods.  
 
 
-**Mathematical Modelling** *(Private Project)*  
+**Mathematical Modelling for Image Reconigtion** *(Private Project)*  
 - Developed a machine learning model to classify images from a dataset into distinct categories using Convolutional Neural Networks (CNNs).  
 - Trained on 80% of the data and tested on 20%, optimizing accuracy on the test set.  
 - Explored model improvements including alternative datasets (e.g., CIFAR10), layer structure adjustments, and dropout layers to prevent overfitting.  
