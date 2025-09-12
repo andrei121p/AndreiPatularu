@@ -11,13 +11,18 @@ Hi, I'm Andrei, currently a  Master's student in Financial Engineering at EPFL. 
 - Combines stock indices and currency data; evaluates performance using Sharpe ratios and factor models.  
 
 **[ML-Project](https://github.com/andrei121p/ML-Project)**  
-- Machine learning project exploring prediction and classification tasks with structured datasets.  
-- Jupyter Notebook-based implementations with Python.  
+- Developed a PyTorch-based residual neural network on 23M+ CRSP daily returns and 41 Compustat firm fundamentals.  
+- Tested the impact of macroeconomic data on daily stock return forecasts using feature engineering and a macro index constructed via Partial Least Squares.  
+- Implemented custom loss functions and integrated transaction cost models with turnover constraints.  
+- Achieved a monthly Sharpe ratio of ~0.35 and outperformed the S&P 500 in select post-COVID periods.  
+
 
 **Mathematical Modelling** *(Private Project)*  
-- Image recognition and clustering project using datasets of colored objects on black backgrounds.  
-- Designed models to distinguish between different categories (e.g., fruits, objects) using feature engineering and clustering techniques.  
-- Repo is private; summary highlights applied modelling skills.  
+- Developed a machine learning model to classify images from a dataset into distinct categories using Convolutional Neural Networks (CNNs).  
+- Trained on 80% of the data and tested on 20%, optimizing accuracy on the test set.  
+- Explored model improvements including alternative datasets (e.g., CIFAR10), layer structure adjustments, and dropout layers to prevent overfitting.  
+- Focused on feature extraction, convolutional filters, pooling, and ReLU activations to maximize classification performance.  
+- Highlights applied skills in image recognition, CNN design, and model evaluation.  
 
 ## ⚙️ Technical Skills
 
