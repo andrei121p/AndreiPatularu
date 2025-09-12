@@ -1,4 +1,4 @@
-# AndreiPatularu
+
 
 Hi, I'm Andrei, currently a  Master's student in Financial Engineering at EPFL. Interested in quantitative finance, investments, and machine learning projects applied to financial data.
 
