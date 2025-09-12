@@ -5,12 +5,12 @@ Hi, I'm Andrei, currently a  Master's student in Financial Engineering at EPFL. 
 
 ## Projects
 
-**[Investments Project](https://github.com/andrei121p/Investments_project)**  
+**[Global Portfolio Strategies](https://github.com/andrei121p/Investments_project)**  
 - Analyses international diversification and dynamic trading strategies for US investors.  
 - Implements portfolio strategies: Risk-Parity, Mean-Variance, Momentum, Reversal, Carry, and Dollar strategies.  
 - Combines stock indices and currency data; evaluates performance using Sharpe ratios and factor models.  
 
-**[ML-Project](https://github.com/andrei121p/ML-Project)**  
+**[Residual Neural Network for Daily Stock Returns](https://github.com/andrei121p/ML-Project)**  
 - Developed a PyTorch-based residual neural network on 23M+ CRSP daily returns and 41 Compustat firm fundamentals.  
 - Tested the impact of macroeconomic data on daily stock return forecasts using feature engineering and a macro index constructed via Partial Least Squares.  
 - Implemented custom loss functions and integrated transaction cost models with turnover constraints.  
