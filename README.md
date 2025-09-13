@@ -24,7 +24,7 @@ Hi, I'm Andrei, currently a  Master's student in Financial Engineering at EPFL. 
 - Focused on feature extraction, convolutional filters, pooling, and ReLU activations to maximize classification performance.  
 - Highlights applied skills in image recognition, CNN design, and model evaluation.  
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 Python (NumPy, Pandas, scikit-learn, PyTorch), R, MATLAB, SQL
 
